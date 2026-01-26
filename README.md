@@ -1,35 +1,28 @@
-Hi 👋 I'm KM Gnana Deepak
-B.Tech CSE | 2027 Batch | DSA • Java • Full Stack 🚀
-Portfolio: https://kmgnanadeepakportfolio.vercel.app
-About Me
+# Hi 👋 I'm KM Gnana Deepak
 
-🎓 B.Tech CSE, Kuppam Engineering College
+## B.Tech CSE | 2027 Batch | DSA • Java • Full Stack
 
-💻 Java, JavaScript, HTML, CSS
+## 🌐 Portfolio
+https://kmgnanadeepakportfolio.vercel.app
 
-🧠 DSA, OS, core CS fundamentals
+## 👨‍🎓 About Me
+🎓 B.Tech CSE, Kuppam Engineering College  
+💻 Java, JavaScript, HTML, CSS  
+🧠 DSA, OS, core CS fundamentals  
+🌱 Learning Full Stack Development  
+⚡ Clean, optimized coding style  
 
-🌱 Learning Full Stack Development
+## 🧠 Current Focus
+📘 Daily DSA practice  
+⚙️ OS, DBMS, CN, OOPs  
+🌐 Full stack projects  
+🧩 Problem-solving  
 
-⚡ Clean, optimized coding style
+## 🚀 Career Mission
+Become a skilled Software Engineer  
+Build scalable real-world applications  
+Continuous learning through projects  
 
-Current Focus
-
-📘 Daily DSA practice
-
-⚙️ OS, DBMS, CN, OOPs
-
-🌐 Full stack projects
-
-🧩 Problem-solving
-
-Career Mission
-
-Become a skilled Software Engineer
-
-Build scalable real-world apps
-
-Continuous learning through projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_dk_158) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kmgnanadeepak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmgnanadeepak@gmail.com) 
