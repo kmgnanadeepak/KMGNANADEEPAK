@@ -34,11 +34,11 @@ Continuous learning through projects
 ![](https://nirzak-streak-stats.vercel.app/?user=kmgnanadeepak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmgnanadeepak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmgnanadeepak&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmgnanadeepak&layout=compact&theme=dark)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=REPO_NAME_1&theme=dark)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=REPO_NAME_2&theme=dark)
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=REPO_NAME_3&theme=dark)
 
 
 *Discipline today, dominance tomorrow.*
