@@ -6,11 +6,11 @@
 https://kmgnanadeepakportfolio.vercel.app
 
 ## 👨‍🎓 About Me
-🎓 B.Tech CSE, Kuppam Engineering College  
-💻 Java, JavaScript, HTML, CSS  
-🧠 DSA, OS, core CS fundamentals  
-🌱 Learning Full Stack Development  
-⚡ Clean, optimized coding style  
+🎓 B.Tech CSE student at Kuppam Engineering College  
+🧠 Focused on DSA and core computer science fundamentals  
+💻 Writing clean, efficient, scalable code  
+⚡ Consistent, disciplined, improvement-driven
+
 
 ## 🧠 Current Focus
 📘 Daily DSA practice  
