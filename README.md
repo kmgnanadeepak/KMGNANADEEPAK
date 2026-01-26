@@ -36,9 +36,9 @@ Continuous learning through projects
 
 ## 🔝 Top Contributed Repos
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=REPO_NAME_1&theme=dark)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=REPO_NAME_2&theme=dark)
-![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=REPO_NAME_3&theme=dark)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=java-dsa&theme=dark)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=safe-fall&theme=dark)
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=KisanSetu&theme=dark)
 
 
 *Discipline today, dominance tomorrow.*
