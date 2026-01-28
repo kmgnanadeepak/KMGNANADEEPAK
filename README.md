@@ -1,4 +1,4 @@
-# Hi 👋 I'm KM Gnana Deepak
+# Hi 👋 I'm KM Gnana Deepakk
 
 ## B.Tech CSE | 2027 Batch | DSA • Java • Full Stack
 
