@@ -3,7 +3,7 @@
 ## B.Tech CSE | 2027 Batch | DSA • Java • Full Stack
 
 ## 🌐 Portfolio
-https://kmgnanadeepakportfolio.vercel.app
+https://www.idk158.me/
 
 ## 👨‍🎓 About Me
 🎓 B.Tech CSE student at Kuppam Engineering College  
