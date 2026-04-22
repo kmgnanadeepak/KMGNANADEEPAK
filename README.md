@@ -1,108 +1,45 @@
-<!-- HEADER -->
-<div align="center">
+# Hi 👋 I'm KM Gnana Deepak
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          K M G N A N A D E E P A K                          ║
-║                                                              ║
-║    B.Tech CSE  ·  Kuppam Engineering College  ·  2027        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## B.Tech CSE | 2027 Batch | DSA • Java • Full Stack
 
-*Engineering clarity. Building systems that scale.*
+## 🌐 Portfolio
+https://www.idk158.me/
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-idk158.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.idk158.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kmgnanadeepak-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kmgnanadeepak)
-[![Instagram](https://img.shields.io/badge/Instagram-i__dk__158-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/i_dk_158)
-[![Email](https://img.shields.io/badge/Email-kmgnanadeepak@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kmgnanadeepak@gmail.com)
+## 👨‍🎓 About Me
+🎓 B.Tech CSE student at Kuppam Engineering College  
+🧠 Focused on DSA and core computer science fundamentals  
+💻 Writing clean, efficient, scalable code  
+⚡ Consistent, disciplined, improvement-driven
 
-</div>
 
----
+## 🧠 Current Focus
+📘 Daily DSA practice  
+⚙️ OS, DBMS, CN, OOPs  
+🌐 Full stack projects  
+🧩 Problem-solving  
 
-## `$ whoami`
+## 🚀 Career Mission
+Become a skilled Software Engineer  
+Build scalable real-world applications  
+Continuous learning through projects  
 
-> A CSE undergrad obsessed with writing clean code, understanding systems deeply, and building things that actually matter.
 
-- 🎯 **Mission** — Land a Software Engineering role at a top-tier product company
-- 🧠 **Daily Stack** — DSA · Java · Full Stack Development · OS · DBMS · CN · OOPs
-- ⚙️ **Philosophy** — First principles over shortcuts. Depth over breadth.
-- 📍 **Location** — Kuppam, Andhra Pradesh, India
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_dk_158) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kmgnanadeepak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmgnanadeepak@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kmgnanadeepak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kmgnanadeepak&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmgnanadeepak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## `$ cat skills.json`
+## 🔝 Top Contributed Repos
 
-```json
-{
-  "languages":   ["Java", "JavaScript", "HTML5", "CSS3"],
-  "frontend":    ["React.js", "Next.js"],
-  "backend":     ["Node.js", "Express.js"],
-  "database":    ["MongoDB"],
-  "devops":      ["Docker", "GitHub Actions", "Git"],
-  "core_cs":     ["DSA", "OS", "DBMS", "CN", "OOPs"],
-  "tools":       ["VS Code", "GitHub", "Postman"]
-}
-```
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=java-dsa&theme=dark)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=safe-fall&theme=dark)
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=KisanSetu&theme=dark)
 
----
 
-## `$ ls projects/`
+*Discipline today, dominance tomorrow.*
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🌾 [KisanSetu](https://github.com/kmgnanadeepak/KisanSetu) | Smart agriculture platform connecting farmers to resources | React · Node.js · MongoDB |
-| 🛡️ [Safe Fall](https://github.com/kmgnanadeepak/safe-fall) | Fall detection system for elderly safety | Java · Sensors · REST API |
-| 📘 [Java DSA](https://github.com/kmgnanadeepak/java-dsa) | Structured DSA solutions — arrays to graphs | Java |
-
----
-
-## `$ git log --oneline`
-
-```
-→  Solving DSA problems daily with Java
-→  Strengthening OS, DBMS, CN, OOPs fundamentals
-→  Building full-stack projects end-to-end
-→  Learning system design, one concept at a time
-→  Keeping GitHub streak alive — no zero days
-```
-
----
-
-## `$ neofetch`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmgnanadeepak&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=kmgnanadeepak&theme=dark&hide_border=true&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&background=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmgnanadeepak&theme=dark&hide_border=true&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
-
-</div>
-
----
-
-## `$ ls pinned/`
-
-<div align="center">
-
-[![KisanSetu](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=KisanSetu&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/kmgnanadeepak/KisanSetu)
-[![Safe Fall](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=safe-fall&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/kmgnanadeepak/safe-fall)
-[![Java DSA](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=java-dsa&theme=dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/kmgnanadeepak/java-dsa)
-
-</div>
-
----
-
-<div align="center">
-
-```
-Discipline today. Dominance tomorrow.
-```
-
-*Open to internships, collaborations, and conversations about tech.*
-
-</div>
