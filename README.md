@@ -9,14 +9,14 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/km-gnana-deepak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://km-gnana-deepak.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/km-gnana-deepak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kmgnanadeepak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kmgnanadeepak.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kmgnanadeepak)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmgnana.deepak@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=km-gnana-deepak&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kmgnanadeepak&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
@@ -96,6 +96,41 @@ public class BackendEngineer {
 
 ---
 
+## `🏗` Architecture Mindset
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                   BACKEND SYSTEM DESIGN FOCUS                   │
+├────────────────────┬────────────────────┬───────────────────────┤
+│   API LAYER        │   SERVICE LAYER    │   DATA LAYER          │
+│                    │                    │                        │
+│  • RESTful design  │  • Business logic  │  • Schema design       │
+│  • Input validation│  • Service classes │  • ORM mapping         │
+│  • Error handling  │  • DTO mapping     │  • Query optimization  │
+│  • JWT Auth/Authz  │  • Exception mgmt  │  • Connection pooling  │
+│  • Rate limiting   │  • Transactional   │  • Caching strategy    │
+│  • API versioning  │  • Dependency Inj. │  • Index strategies    │
+└────────────────────┴────────────────────┴───────────────────────┘
+
+     [Client] ──► [Controller] ──► [Service] ──► [Repository]
+                       │                │               │
+                  [Validation]    [Business Logic]  [JPA/SQL]
+                       │                │               │
+                  [DTO/Response]  [Exception Handle] [Database]
+```
+
+**Design Principles I engineer with:**
+
+| Principle | Application |
+|-----------|-------------|
+| **Single Responsibility** | Each Spring `@Service` owns exactly one domain concern |
+| **Dependency Inversion** | Program to interfaces — never concrete implementations |
+| **Fail Fast** | Validate at the controller boundary — never deep in logic |
+| **Defense in Depth** | Security at every layer: gateway → filter → service → DB |
+| **Idempotency** | APIs designed for safe retries — critical for distributed systems |
+| **Separation of Concerns** | DTOs, Entities, and Response models are always distinct |
+
+---
 
 ## `🚀` Featured Backend Projects
 
@@ -180,22 +215,58 @@ Delivered production-grade backend features and API integrations during two prof
 
 ---
 
-## `📈` GitHub Engineering Metrics
+## `📈` GitHub Engineering Dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmgnanadeepak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=km-gnana-deepak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<!-- ROW 1 — General Stats + Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmgnanadeepak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmgnanadeepak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=km-gnana-deepak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<!-- ROW 2 — Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kmgnanadeepak&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="60%"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=km-gnana-deepak&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/km-gnana-deepak)
+<!-- ROW 3 — GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=kmgnanadeepak&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%"/>
+
+<br/>
+
+<!-- ROW 4 — Activity Graph (Full Width) -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kmgnanadeepak&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/kmgnanadeepak)
+
+<br/>
+
+<!-- ROW 5 — GitHub Stats Card (Detailed) -->
+<img src="https://github-readme-stats.vercel.app/api?username=kmgnanadeepak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=false" alt="Extended GitHub Stats" width="60%"/>
+
+<br/>
+
+<!-- ROW 6 — Top Languages (Pie / Donut alternate layout) -->
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmgnanadeepak&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Language Distribution"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmgnanadeepak&layout=pie&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Language Pie"/>
+
+<br/>
+
+<!-- ROW 7 — GitHub Skyline / Isometric Contribution Graph -->
+[![GitHub Skyline](https://img.shields.io/badge/GitHub_Skyline_3D_Contributions-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://skyline.github.com/kmgnanadeepak/2024)
+
+<br/>
+
+<!-- ROW 8 — Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmgnanadeepak/kmgnanadeepak/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmgnanadeepak/kmgnanadeepak/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/kmgnanadeepak/kmgnanadeepak/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
+
+> **💡 Snake Animation Setup** — Add this GitHub Actions workflow to auto-generate the snake:  
+> `.github/workflows/snake.yml` → uses `Platane/snk` action on schedule + push to `output` branch.
 
 ---
 
@@ -312,9 +383,9 @@ My engineering discipline is shaped by three commitments:
 
 | Platform | Purpose | Link |
 |----------|---------|------|
-| 🔗 **Portfolio** | Backend projects & engineering showcase | [km-gnana-deepak.vercel.app](https://km-gnana-deepak.vercel.app) |
-| 💼 **LinkedIn** | Professional network & career updates | [linkedin.com/in/km-gnana-deepak](https://linkedin.com/in/km-gnana-deepak) |
-| 🧩 **LeetCode** | DSA practice — Microsoft interview prep | [leetcode.com/km-gnana-deepak](https://leetcode.com/km-gnana-deepak) |
+| 🔗 **Portfolio** | Backend projects & engineering showcase | [kmgnanadeepak.vercel.app](https://kmgnanadeepak.vercel.app) |
+| 💼 **LinkedIn** | Professional network & career updates | [linkedin.com/in/kmgnanadeepak](https://linkedin.com/in/kmgnanadeepak) |
+| 🧩 **LeetCode** | DSA practice — Microsoft interview prep | [leetcode.com/kmgnanadeepak](https://leetcode.com/kmgnanadeepak) |
 | 📧 **Email** | Engineering collaborations & opportunities | kmgnana.deepak@gmail.com |
 
 <br/>
@@ -333,7 +404,7 @@ My engineering discipline is shaped by three commitments:
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/km-gnana-deepak?theme=dark)](https://leetcode.com/km-gnana-deepak)
+[![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/kmgnanadeepak?theme=dark)](https://leetcode.com/kmgnanadeepak)
 
 **Active DSA roadmap — Microsoft SWE interview preparation**
 
