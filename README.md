@@ -1,45 +1,32 @@
-# Hi 👋 I'm KM Gnana Deepak
+# <div align="center">⚙️ KM Gnana Deepak</div>
 
-## B.Tech CSE | 2027 Batch | DSA • Java • Full Stack
+<div align="center">
 
-## 🌐 Portfolio
-https://www.idk158.me/
+### **Java Backend Engineer | Spring Boot Developer | Enterprise Software Engineer (In Progress)**
 
-## 👨‍🎓 About Me
-🎓 B.Tech CSE student at Kuppam Engineering College  
-🧠 Focused on DSA and core computer science fundamentals  
-💻 Writing clean, efficient, scalable code  
-⚡ Consistent, disciplined, improvement-driven
+### Building scalable backend systems, production-grade APIs, and enterprise-focused software architecture.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome)](https://www.idk158.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin)](#)
+[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge)](#)
 
-## 🧠 Current Focus
-📘 Daily DSA practice  
-⚙️ OS, DBMS, CN, OOPs  
-🌐 Full stack projects  
-🧩 Problem-solving  
+</div>
 
-## 🚀 Career Mission
-Become a skilled Software Engineer  
-Build scalable real-world applications  
-Continuous learning through projects  
+---
 
+# 🏛 Backend Engineering Identity
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_dk_158) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kmgnanadeepak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmgnanadeepak@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kmgnanadeepak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kmgnanadeepak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kmgnanadeepak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🔝 Top Contributed Repos
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=java-dsa&theme=dark)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=safe-fall&theme=dark)
-![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=KisanSetu&theme=dark)
-
-
-*Discipline today, dominance tomorrow.*
-
+```yaml
+Name: KM Gnana Deepak
+Role: Java + Spring Boot Backend Engineer
+Focus:
+  - Enterprise Application Development
+  - REST API Engineering
+  - Scalable Backend Systems
+  - Secure Authentication Architectures
+  - Database-Centric Software Design
+  - System Design & Problem Solving
+Mission:
+  - Evolve into a top-tier software engineer capable of building
+    large-scale enterprise systems and big-tech level applications.
