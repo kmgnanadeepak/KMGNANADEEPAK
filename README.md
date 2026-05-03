@@ -96,41 +96,6 @@ public class BackendEngineer {
 
 ---
 
-## `🏗` Architecture Mindset
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                   BACKEND SYSTEM DESIGN FOCUS                   │
-├────────────────────┬────────────────────┬───────────────────────┤
-│   API LAYER        │   SERVICE LAYER    │   DATA LAYER          │
-│                    │                    │                        │
-│  • RESTful design  │  • Business logic  │  • Schema design       │
-│  • Input validation│  • Service classes │  • ORM mapping         │
-│  • Error handling  │  • DTO mapping     │  • Query optimization  │
-│  • JWT Auth/Authz  │  • Exception mgmt  │  • Connection pooling  │
-│  • Rate limiting   │  • Transactional   │  • Caching strategy    │
-│  • API versioning  │  • Dependency Inj. │  • Index strategies    │
-└────────────────────┴────────────────────┴───────────────────────┘
-
-     [Client] ──► [Controller] ──► [Service] ──► [Repository]
-                       │                │               │
-                  [Validation]    [Business Logic]  [JPA/SQL]
-                       │                │               │
-                  [DTO/Response]  [Exception Handle] [Database]
-```
-
-**Design Principles I engineer with:**
-
-| Principle | Application |
-|-----------|-------------|
-| **Single Responsibility** | Each Spring `@Service` owns exactly one domain concern |
-| **Dependency Inversion** | Program to interfaces — never concrete implementations |
-| **Fail Fast** | Validate at the controller boundary — never deep in logic |
-| **Defense in Depth** | Security at every layer: gateway → filter → service → DB |
-| **Idempotency** | APIs designed for safe retries — critical for distributed systems |
-| **Separation of Concerns** | DTOs, Entities, and Response models are always distinct |
-
----
 
 ## `🚀` Featured Backend Projects
 
@@ -219,7 +184,7 @@ Delivered production-grade backend features and API integrations during two prof
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=km-gnana-deepak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmgnanadeepak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=km-gnana-deepak&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
