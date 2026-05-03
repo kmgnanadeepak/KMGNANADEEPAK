@@ -1,15 +1,37 @@
 # <div align="center">⚙️ KM Gnana Deepak</div>
 
-<div align="center">
+<<div align="center">
 
-### **Java Backend Engineer | Spring Boot Developer | Enterprise Software Engineer (In Progress)**
+<table>
+<tr>
+<td align="center">
 
-### Building scalable backend systems, production-grade APIs, and enterprise-focused software architecture.
+<a href="https://www.idk158.me/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Explore_Now-0f172a?style=for-the-badge&logoColor=white&labelColor=111827&color=2563eb"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=google-chrome)](https://www.idk158.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin)](#)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge)](#)
+</td>
+<td align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0f172a?style=for-the-badge&logoColor=white&labelColor=111827&color=0ea5e9"/>
+</a>
+
+</td>
+<td align="center">
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/⚡_GitHub-Followers_1.2K-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=6366f1"/>
+</a>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/🚀_Profile_Views-483K+-0f172a?style=for-the-badge&logoColor=white&labelColor=111827&color=14b8a6"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
