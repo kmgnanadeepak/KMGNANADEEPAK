@@ -133,39 +133,6 @@ public class BackendEngineer {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## `🏗` Architecture Mindset
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                   BACKEND SYSTEM DESIGN FOCUS                   │
-├────────────────────┬────────────────────┬───────────────────────┤
-│   API LAYER        │   SERVICE LAYER    │   DATA LAYER          │
-│                    │                    │                        │
-│  • RESTful design  │  • Business logic  │  • Schema design       │
-│  • Input validation│  • Service classes │  • ORM mapping         │
-│  • Error handling  │  • DTO mapping     │  • Query optimization  │
-│  • JWT Auth/Authz  │  • Exception mgmt  │  • Connection pooling  │
-│  • Rate limiting   │  • Transactional   │  • Caching strategy    │
-│  • API versioning  │  • Dependency Inj. │  • Index strategies    │
-└────────────────────┴────────────────────┴───────────────────────┘
-
-     [Client] ──► [Controller] ──► [Service] ──► [Repository]
-                       │                │               │
-                  [Validation]    [Business Logic]  [JPA/SQL]
-                       │                │               │
-                  [DTO/Response]  [Exception Handle] [Database]
-```
-
-**Design Principles I engineer with:**
-
-| Principle | Application |
-|-----------|-------------|
-| **Single Responsibility** | Each Spring `@Service` owns exactly one domain concern |
-| **Dependency Inversion** | Program to interfaces — never concrete implementations |
-| **Fail Fast** | Validate at the controller boundary — never deep in logic |
-| **Defense in Depth** | Security at every layer: gateway → filter → service → DB |
-| **Idempotency** | APIs designed for safe retries — critical for distributed systems |
-| **Separation of Concerns** | DTOs, Entities, and Response models are always distinct |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
@@ -267,10 +234,7 @@ Delivered production-grade backend features and API integrations during two prof
 
 <br/>
 
-<!-- ROW 3 — GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=kmgnanadeepak&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%"/>
 
-<br/>
 
 <!-- ROW 4 — Activity Graph (Full Width) -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kmgnanadeepak&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/kmgnanadeepak)
@@ -293,99 +257,13 @@ Delivered production-grade backend features and API integrations during two prof
 
 <br/>
 
-<!-- ROW 8 — Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmgnanadeepak/kmgnanadeepak/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmgnanadeepak/kmgnanadeepak/output/github-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/kmgnanadeepak/kmgnanadeepak/output/github-snake-dark.svg" width="100%"/>
-</picture>
+
 
 </div>
 
-> **💡 Snake Animation Setup** — Add this GitHub Actions workflow to auto-generate the snake:  
-> `.github/workflows/snake.yml` → uses `Platane/snk` action on schedule + push to `output` branch.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## `🎯` Current Technical Mission — 2025–2027
-
-```yaml
-# mission-roadmap.yml
-
-current_phase: "Spring Boot Mastery & System Design Foundations"
-graduation_target: 2027
-career_target: "Microsoft SWE — 5-Year Horizon"
-
-active_learning:
-  spring_boot:
-    - Spring Boot 3.x — Auto-configuration deep dive
-    - Spring Security — JWT + OAuth2 implementation
-    - Spring Data JPA — Custom JPQL, N+1 prevention
-    - Spring Boot + Docker — Containerized deployment
-    - REST API design — Versioning, pagination, HATEOAS
-
-  data_structures_algorithms:
-    - Active LeetCode practice — daily problems
-    - Targeting: Arrays, Trees, Graphs, DP, Backtracking
-    - Microsoft SWE interview preparation track
-
-  system_design:
-    - CAP theorem & distributed systems fundamentals
-    - Database indexing, sharding, replication
-    - Caching strategies — Redis patterns
-    - Load balancing & horizontal scaling
-    - Microservices communication patterns
-
-  devops_engineering:
-    - Docker containerization — multi-stage builds
-    - GitHub Actions CI/CD pipeline design
-    - AWS fundamentals — EC2, RDS, S3
-
-milestones_2025:
-  - ✅ Built multi-room real-time auction system (WebSocket + MongoDB)
-  - ✅ Delivered KisanSetu — national-level hackathon winner
-  - ✅ Completed 2 professional software engineering internships
-  - 🔄 Deepening Spring Boot ecosystem mastery
-  - 🔄 Advancing DSA for Big Tech interview readiness
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## `🧠` Core Engineering Principles
-
-<div align="center">
-
-| `01` | `02` | `03` |
-|------|------|------|
-| **Write APIs that don't need documentation to understand** | **Design schemas before writing a single line of code** | **Security is an architecture decision — not an afterthought** |
-| `Naming, structure, and contracts that speak for themselves` | `Data integrity starts at the schema level` | `Auth, authz, and input validation built in from layer zero` |
-
-| `04` | `05` | `06` |
-|------|------|------|
-| **Optimize for readability before performance** | **Every service should have exactly one job** | **Build for failure — not best-case scenarios** |
-| `Code is read 10x more than written — design accordingly` | `Single responsibility is the root of maintainability` | `Graceful degradation, retries, and fallbacks are features` |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## `💼` Professional Footprint
-
-```
-INTERNSHIP EXPERIENCE
-═══════════════════════════════════════════════════════
-
-┌─ Cognifyz Technologies
-│  Role     : Software Engineering Intern
-│  Domain   : Backend Development & API Integration
-│  Output   : Delivered production features in real codebase
-└──────────────────────────────────────────────────────
-
-┌─ Internship Studio  
-│  Role     : Software Engineering Intern
-│  Domain   : Full-Stack Feature Development
-│  Output   : End-to-end feature implementation & deployment
-└──────────────────────────────────────────────────────
 
 RECOGNITION & AWARDS
 ═══════════════════════════════════════════════════════
@@ -393,28 +271,6 @@ RECOGNITION & AWARDS
 🥇  National Hackathon — 1st Place (KisanSetu)
 🏆  5x National-Level Technical Awards
 🎓  B.Tech CSE — Kuppam Engineering College (JNTUA R23, 2027)
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## `🌐` Developer Philosophy
-
-> *"Backend engineering is invisible to users — and that's exactly the point.  
-> The best systems are the ones nobody notices because they never break."*
-
-I approach software engineering with the mindset of an infrastructure builder — every API contract I write, every schema I design, and every service I architect is meant to outlast the team that built it.
-
-My engineering discipline is shaped by three commitments:
-
-**1. Depth over breadth** — I'd rather understand Spring Boot internals deeply than superficially know ten frameworks.
-
-**2. Systems thinking** — Every component I write exists within a larger system. I design for that context, not in isolation.
-
-**3. Incremental excellence** — Production-grade code isn't written in one pass. It's the product of iteration, review, and discipline.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## `📡` Digital Presence & Connect
 
 <div align="center">
 
