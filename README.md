@@ -1,26 +1,63 @@
 <div align="center">
 
-<!-- IDENTITY BLOCK -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=200&section=header&text=KM%20Gnana%20Deepak&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend%20Engineer&descColor=8b949e&descAlignY=58&animation=fadeIn" alt="Header"/>
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!-- ║           PREMIUM HEADER — CYLINDER ANIMATION        ║ -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0d1117,60:0a192f,100:112240&height=220&section=header&text=KM%20Gnana%20Deepak&fontSize=52&fontColor=58a6ff&fontAlignY=45&desc=Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Backend%20Engineer&descColor=94a3b8&descSize=18&descAlignY=65&stroke=1f6feb&strokeWidth=1&animation=scaleIn" alt="Header Banner"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems+with+Spring+Boot;REST+API+Architect+%7C+Microservices+Engineer;Enterprise+Java+Developer+%7C+System+Design+Thinker;Future+Microsoft+SWE+%7C+Big-Tech+Ready)](https://git.io/typing-svg)
+<!-- ── PREMIUM DIVIDER LINE ── -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kmgnanadeepak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kmgnanadeepak.vercel.app)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kmgnanadeepak)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmgnana.deepak@gmail.com)
+<!-- ── DUAL TYPING ANIMATION — stacked for premium feel ── -->
+<a href="https://github.com/kmgnanadeepak">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=40&lines=%E2%9A%99%EF%B8%8F+Backend+Systems+Engineer;%F0%9F%8C%BF+Spring+Boot+%7C+REST+APIs+%7C+Microservices;%F0%9F%94%90+Secure+%26+Scalable+Architecture+Designer;%F0%9F%8E%AF+Microsoft+SWE+Target+%E2%80%94+5-Year+Roadmap;%F0%9F%9A%80+Building+Systems+That+Outlast+Their+Teams" alt="Typing Line 1"/>
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kmgnanadeepak&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+<a href="https://github.com/kmgnanadeepak">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=94A3B8&center=true&vCenter=true&repeat=true&width=700&height=28&lines=%2F%2F+B.Tech+CSE+%40+Kuppam+Engineering+College+%7C+JNTUA+R23+%7C+Class+of+2027;%2F%2F+National+Hackathon+Winner+%7C+2x+Internships+%7C+Full-Stack+%2B+Backend+Focus;%2F%2F+Currently+mastering+Spring+Boot+3.x+%2B+System+Design+%2B+DSA" alt="Typing Line 2 — subtitle"/>
+</a>
+
+<br/><br/>
+
+<!-- ── SOCIAL BADGES — Premium flat style with glow effect ── -->
+<a href="https://linkedin.com/in/kmgnanadeepak">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://kmgnanadeepak.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://leetcode.com/kmgnanadeepak">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>&nbsp;
+<a href="mailto:kmgnana.deepak@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>&nbsp;
+<a href="https://github.com/kmgnanadeepak">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<!-- ── PROFILE METRICS ROW ── -->
+![Profile Views](https://komarev.com/ghpvc/?username=kmgnanadeepak&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)&nbsp;
+![Followers](https://img.shields.io/github/followers/kmgnanadeepak?style=for-the-badge&color=236ad3&labelColor=1155ba&label=FOLLOWERS)&nbsp;
+![Stars](https://img.shields.io/github/stars/kmgnanadeepak?style=for-the-badge&color=ffd700&labelColor=b8860b&label=TOTAL+STARS)
+
+<br/>
+
+<!-- ── PREMIUM SEPARATOR ── -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `$ whoami` — Backend Engineering Identity
 
@@ -54,7 +91,7 @@ public class BackendEngineer {
 > **Currently building** systems that matter. **Currently studying** what elite engineers master.  
 > **Currently targeting** the craft required to engineer at scale.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `⚙` Java & Spring Boot Engineering Stack
 
@@ -94,7 +131,7 @@ public class BackendEngineer {
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `🏗` Architecture Mindset
 
@@ -130,7 +167,7 @@ public class BackendEngineer {
 | **Idempotency** | APIs designed for safe retries — critical for distributed systems |
 | **Separation of Concerns** | DTOs, Entities, and Response models are always distinct |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `🚀` Featured Backend Projects
 
@@ -213,7 +250,7 @@ Delivered production-grade backend features and API integrations during two prof
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `📈` GitHub Engineering Dashboard
 
@@ -268,7 +305,7 @@ Delivered production-grade backend features and API integrations during two prof
 > **💡 Snake Animation Setup** — Add this GitHub Actions workflow to auto-generate the snake:  
 > `.github/workflows/snake.yml` → uses `Platane/snk` action on schedule + push to `output` branch.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `🎯` Current Technical Mission — 2025–2027
 
@@ -312,7 +349,7 @@ milestones_2025:
   - 🔄 Advancing DSA for Big Tech interview readiness
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `🧠` Core Engineering Principles
 
@@ -330,7 +367,7 @@ milestones_2025:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `💼` Professional Footprint
 
@@ -358,7 +395,7 @@ RECOGNITION & AWARDS
 🎓  B.Tech CSE — Kuppam Engineering College (JNTUA R23, 2027)
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `🌐` Developer Philosophy
 
@@ -375,7 +412,7 @@ My engineering discipline is shaped by three commitments:
 
 **3. Incremental excellence** — Production-grade code isn't written in one pass. It's the product of iteration, review, and discipline.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `📡` Digital Presence & Connect
 
@@ -398,7 +435,7 @@ My engineering discipline is shaped by three commitments:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `⚡` LeetCode & DSA Progress
 
@@ -414,14 +451,22 @@ My engineering discipline is shaped by three commitments:
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=120&section=footer&animation=fadeIn" alt="Footer"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-**`// Building backend systems that scale. Designing APIs that last. Engineering a career at Microsoft.`**
+<br/>
 
-*— KM Gnana Deepak · Java Backend Engineer · Kuppam Engineering College · Class of 2027*
+<!-- CLOSING BRAND STATEMENT -->
+<a href="https://github.com/kmgnanadeepak">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=2500&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=35&lines=%2F%2F+Building+backend+systems+that+scale.+Designing+APIs+that+last.;%2F%2F+Engineering+a+career+at+Microsoft.+One+commit+at+a+time." alt="Footer Typing"/>
+</a>
+
+<br/><br/>
+
+<!-- PREMIUM FOOTER BANNER — cylinder style matching header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:112240,40:0a192f,70:0d1117,100:000000&height=140&section=footer&text=KM%20Gnana%20Deepak&fontSize=32&fontColor=58a6ff&fontAlignY=42&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Kuppam%20Engineering%20College%20%E2%80%A2%20Class%20of%202027&descColor=64748b&descSize=13&descAlignY=65&stroke=1f6feb&strokeWidth=1&animation=scaleIn" alt="Footer Banner"/>
 
 </div>
