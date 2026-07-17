@@ -36,7 +36,7 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img src="./Skills_Animation_White.gif" width="700">
+    <img src="./Skills_Animation_White.gif" width="550">
   </picture>
 </p>
 
