@@ -42,10 +42,10 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
 
 <br>
 
-## Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kmgnanadeepak/kmgnanadeepak/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmgnanadeepak&theme=github-dark&hide_border=true&area=true" width="100%"/>
 </p>
 <br clear="both">
 
