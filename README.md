@@ -42,13 +42,11 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
 
 <br>
 
-<h2 align="center">💻 Tᴇᴄʜɴᴏʟᴏɢɪᴇs I Wᴏʀᴋ Wɪᴛʜ 💻</h2>
+## Contribution Graph
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,nodejs,postgres,mysql,mongodb,redis,docker,kafka,aws,git,github,vscode,idea,maven,postman,linux&perline=10" />
+  <img src="https://raw.githubusercontent.com/kmgnanadeepak/kmgnanadeepak/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
 <br clear="both">
 
 
