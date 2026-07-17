@@ -31,18 +31,31 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
 
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
+<table>
+<tr>
+<td width="55%" align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" src="./Skills_Animation_White.gif">
+  <img src="./Skills_Animation_White.gif" width="420">
 </picture>
 
-<h3>Current Focus</h3>
+</td>
+
+<td width="45%" valign="middle">
+
+### Current Focus
 
 - Spring Boot • Microservices • System Design
 - React.js • TypeScript • PostgreSQL
 - Docker • AWS • Clean Architecture
+- Redis • Apache Kafka
+- CI/CD • GitHub Actions
 
+</td>
+</tr>
+</table>
 <br clear="both">
 
 
