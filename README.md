@@ -65,57 +65,79 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
 
 
 
-<!--Github stats Table--> 
+<!--Github stats Table-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
+    <!-- GitHub Stats -->
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/kmgnanadeepak">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=kmgnanadeepak&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=kmgnanadeepak&show_icons=true&count_private=true&include_all_commits=true&hide=issues&bg_color=3B0A1A&title_color=D4AF37&text_color=FFFFFF&icon_color=FFD700&border_color=7A1F3D&border_radius=12"
+            alt="GitHub Stats"
+          />
         </a>
       </p>
     </td>
- <td width="50%">
-  <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-  <p align="center">
-    <a href="https://git.io/streak-stats">
-     <img src="https://streak-stats.demolab.com?user=kmgnanadeepak&theme=tokyonight" />
-    </a>
-  </p>
-</td>
+
+    <!-- Streak Stats -->
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://git.io/streak-stats">
+          <img
+            src="https://streak-stats.demolab.com?user=kmgnanadeepak&hide_border=true&border_radius=12&background=3B0A1A&stroke=7A1F3D&ring=D4AF37&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=BFA76A"
+            alt="GitHub Streak"
+          />
+        </a>
+      </p>
+    </td>
   </tr>
+
   <tr>
+    <!-- Featured Project -->
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/kmgnanadeepak/safe-fall">
+          <img
+            width="470"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=safe-fall&bg_color=3B0A1A&title_color=D4AF37&text_color=FFFFFF&icon_color=FFD700&border_color=7A1F3D&border_radius=12"
+            alt="Latest Project"
+          />
         </a>
       </p>
     </td>
+
+    <!-- Top Contributions -->
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/kmgnanadeepak">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=kmgnanadeepak&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img
+            src="https://github-contributor-stats.vercel.app/api?username=kmgnanadeepak&limit=2&theme=dark&combine_all_yearly_contributions=true"
+            alt="Top Contributions"
+          />
         </a>
       </p>
     </td>
   </tr>
 </table>
-<br />
 
+<br>
 
-<!--Contribution Graph-->
+<!-- Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmgnanadeepak&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kmgnanadeepak&bg_color=3B0A1A&color=FFFFFF&line=D4AF37&point=FFD700&area=true&area_color=7A1F3D&hide_border=true"
+    alt="Contribution Graph"
+  />
 </div>
-
-
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20dreamers%20are%20the%20saviors%20of%20the%20worlds.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
