@@ -81,9 +81,7 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/kmgnanadeepak">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=kmgnanadeepak&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=kmgnanadeepak&theme=maroongold" alt="GitHub Streak" /></a>
       </p>
     </td>
   </tr>
