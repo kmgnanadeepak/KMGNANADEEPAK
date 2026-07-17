@@ -6,7 +6,7 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M GNANA DEEPAK!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝙄'𝙈 𝙂𝙉𝘼𝙉𝘼 𝘿𝙀𝙀𝙋𝘼𝙆!!
 
 *Backend Engineer | Java & Spring Boot Developer*
 
