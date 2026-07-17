@@ -82,10 +82,7 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
   <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img
-        src="https://streak-stats.demolab.com?user=kmgnanadeepak&theme=maroongold"
-        alt="GitHub Streak"
-      />
+     <img src="https://streak-stats.demolab.com?user=kmgnanadeepak&theme=tokyonight" />
     </a>
   </p>
 </td>
