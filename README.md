@@ -46,53 +46,68 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
 <br clear="both">
 
 ---
+<!-- ========================= GitHub Stats ========================= -->
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/kmgnanadeepak">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=kmgnanadeepak&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/kmgnanadeepak">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=kmgnanadeepak&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/kmgnanadeepak/safe-fall">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=kmgnanadeepak&repo=safe-fall&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/kmgnanadeepak">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=kmgnanadeepak&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h3>
+
+<p align="center">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmgnanadeepak&theme=github_dark"
+/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ</h3>
+
+<p align="center">
+<img
+src="https://streak-stats.demolab.com?user=kmgnanadeepak&theme=midnight-purple&hide_border=false"
+/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">ʟᴀᴛᴇꜱᴛ ᴘʀᴏᴊᴇᴄᴛ</h3>
+
+<p align="center">
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=safe-fall&theme=midnight-purple&hide_border=false"
+/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">ᴛᴏᴘ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ</h3>
+
+<p align="center">
+<img
+src="https://github-contributor-stats.vercel.app/api?username=kmgnanadeepak&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true"
+/>
+</p>
+
+</td>
+
+</tr>
+
 </table>
-
-<br />
-
----
-
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 
 <p align="center">
