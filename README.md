@@ -52,27 +52,27 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
 
 <a href="mailto:kmgnanadeepak@gmail.com">
 <img src="./gmail.png" width="50"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/gnanakm">
 <img src="./twitter.png" width="50"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/i_dk_158">
 <img src="./instagram.png" width="50"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/kmgnanadeepak">
 <img src="./github.png" width="50"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/kmgnanadeepak">
 <img src="./linkedin.png" width="50"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://idk158.me">
 <img src="./dev_to.png" width="50"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
