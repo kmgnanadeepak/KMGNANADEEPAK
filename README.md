@@ -78,12 +78,14 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=kmgnanadeepak&theme=maroongold" alt="GitHub Streak" /></a>
-      </p>
-    </td>
+  <td width="50%">
+  <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats-mu-flame.vercel.app?user=kmgnanadeepak&theme=maroongold" alt="GitHub Streak" />
+    </a>
+  </p>
+</td>
   </tr>
   <tr>
     <td width="50%">
