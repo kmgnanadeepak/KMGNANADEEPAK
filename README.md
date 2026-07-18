@@ -41,68 +41,17 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
 </p>
 
 <br>
-<!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <a href="https://github.com/kmgnanadeepak/KisanSetu">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=KisanSetu&theme=tokyonight&hide_border=true" />
+  </a>
 
-### 🌾 KisanSetu
-**Multi-Role Agri-Commerce Platform**
-
-A scalable microservices-based agri-commerce platform supporting Farmers, Buyers, Vendors, and Admins with secure authentication and REST APIs.
-
-**Tech Stack**
-
-`Spring Boot` `Microservices` `Spring Security` `JWT` `PostgreSQL` `Docker`
-
-<a href="https://github.com/kmgnanadeepak/KisanSetu">
-  <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🏥 SafeFall
-**Real-Time Fall Detection System**
-
-Emergency response backend that detects falls and instantly notifies emergency contacts with real-time alerts.
-
-**Tech Stack**
-
-`Spring Boot` `WebSocket` `REST API` `JWT` `PostgreSQL`
-
-<a href="https://github.com/kmgnanadeepak/SafeFall">
-  <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-### 🌐 Personal Portfolio
-
-Modern developer portfolio showcasing projects, skills, and experience with responsive design and smooth animations.
-
-**Tech Stack**
-
-`React` `Tailwind CSS` `TypeScript` `Framer Motion`
-
-<a href="https://idk158.me">
-  <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kmgnanadeepak">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
+  <a href="https://github.com/kmgnanadeepak/SafeFall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmgnanadeepak&repo=SafeFall&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 <br clear="both">
 
