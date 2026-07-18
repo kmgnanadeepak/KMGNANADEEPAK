@@ -56,6 +56,8 @@ A scalable microservices-based agri-commerce platform supporting Farmers, Buyers
 **Tech Stack**
 
 `Spring Boot` `Microservices` `Spring Security` `JWT` `PostgreSQL` `Docker`
+<br>
+
 <a href="https://kisansetu-v2.vercel.app/">
   <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -75,6 +77,7 @@ Emergency response backend that detects falls and instantly notifies emergency c
 **Tech Stack**
 
 `Spring Boot` `WebSocket` `REST API` `JWT` `PostgreSQL`
+<br>
 <a href="https://safefall-kmgd.vercel.app/">
   <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
