@@ -38,7 +38,6 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
     <img src="./Skills_Animation_White.gif" width="550">
   </picture>
 </p>
----
 <br>
 <!-- Featured Projects -->
 <h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
