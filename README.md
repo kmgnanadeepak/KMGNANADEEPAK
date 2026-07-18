@@ -42,7 +42,7 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
 
 <br>
 <!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
 
 <table>
 <tr valign="top">
@@ -121,7 +121,7 @@ Modern developer portfolio showcasing projects, skills, and experience with a cl
 <br clear="both">
 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
 
 <p align="center">
 
