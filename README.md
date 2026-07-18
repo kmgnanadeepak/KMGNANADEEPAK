@@ -16,18 +16,17 @@
 I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> passionate about building scalable backend systems, REST APIs, and modern full-stack applications with <strong>Java</strong>, <strong>Spring Boot</strong>, and <strong>React.js</strong>.
 </p>
 
-- 🚀 Spring Boot • Microservices • Apache Kafka
-- 🏗️ Building scalable, production-ready applications
-- 📚 Exploring System Design & Backend Architecture
-- 🤝 Open to Collaboration & Open Source
-- 🌐 Portfolio: **https://idk158.me**
-- 📧 Email: **kmgnanadeepak@gmail.com**
+- Spring Boot • Microservices • Apache Kafka
+- Building scalable, production-ready applications
+- Exploring System Design & Backend Architecture
+- Open to Collaboration & Open Source
+- Portfolio: **https://idk158.me**
+- Email: **kmgnanadeepak@gmail.com**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kmgnanadeepak&label=Profile%20Views&color=770677&style=for-the-badge" />
 </p>
 
----
 
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
@@ -148,8 +147,6 @@ Modern developer portfolio showcasing projects, skills, and experience with a cl
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
