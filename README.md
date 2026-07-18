@@ -45,17 +45,19 @@ I'm <strong>KM Gnana Deepak</strong>, a <strong>Spring Boot Engineer</strong> pa
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
-<tr>
+<tr valign="top">
+
 <td width="50%">
 
 ### 🌾 KisanSetu
 **Multi-Role Agri-Commerce Platform**
 
-A scalable microservices-based agri-commerce platform supporting Farmers, Buyers, Vendors, and Admins with secure authentication and REST APIs.
+A scalable agri-commerce platform built using a microservices architecture with secure authentication, REST APIs, and role-based access for multiple users.
 
 **Tech Stack**
 
-`Spring Boot` `Microservices` `Spring Security` `JWT` `PostgreSQL` `Docker`
+`Spring Boot` `Microservices` `Spring Security` `JWT` `PostgreSQL`
+
 <br>
 
 <a href="https://kisansetu-v2.vercel.app/">
@@ -72,12 +74,14 @@ A scalable microservices-based agri-commerce platform supporting Farmers, Buyers
 ### 🏥 SafeFall
 **Real-Time Fall Detection System**
 
-Emergency response backend that detects falls and instantly notifies emergency contacts with real-time alerts.
+A real-time emergency response platform that detects fall incidents, stores events securely, and instantly notifies emergency contacts.
 
 **Tech Stack**
 
 `Spring Boot` `WebSocket` `REST API` `JWT` `PostgreSQL`
+
 <br>
+
 <a href="https://safefall-kmgd.vercel.app/">
   <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -86,28 +90,32 @@ Emergency response backend that detects falls and instantly notifies emergency c
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td colspan="2">
 
 ### 🌐 Personal Portfolio
 
-Modern developer portfolio showcasing projects, skills, and experience with responsive design and smooth animations.
+Modern developer portfolio showcasing projects, skills, and experience with a clean UI, responsive design, and smooth animations.
 
 **Tech Stack**
 
 `React` `Tailwind CSS` `TypeScript` `Framer Motion`
 
+<br>
+
 <a href="https://idk158.me">
   <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="https://github.com/kmgnanadeepak">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 <br clear="both">
